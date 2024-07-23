@@ -1,0 +1,18 @@
+#nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    background-color: aqua;
+}
+.but{
+    border-radius: 20px;
+    background-color: rgb(135, 149, 57);
+    border-bottom: 0px;
+}
+#main{
+position: absolute;
+top: 0%;
+left: 0%;
+right: 0%;
+
+}
